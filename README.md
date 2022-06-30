@@ -5,4 +5,4 @@ The book will be published in Jume 2022 by CRC press, and is available for pre-o
 
 The Python code will be published on this github site one chapter a week up to the release date of the book on 30 June, 2022. 
 
-### Code of Chapter 8 was just added. Check back next week for Chapter 9!
+### Code of Chapter 9 was just added. Check back next week for Chapter 10!
