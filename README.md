@@ -1,3 +1,5 @@
+<img src="part_of_cover_bakker_post.png" width="800px">
+
 # Python code of "Analytical Groundwater Modeling"
 This repository contains the Python code of the book "Analytical Groundwater Modeling: Theory and Applications Using Python" by Mark Bakker and Vincent Post. 
 
