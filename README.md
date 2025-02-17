@@ -7,4 +7,4 @@ The book is available through the [publisher](https://www.routledge.com/Analytic
 
 ### All Python code of the book (one Notebook for each chapter) is available on this github site. 
 
-An erratum notebook has been added with corrections to the book.
+An erratum notebook has been added with corrections to the book and can be found [here](https://github.com/pythongroundwaterbook/analytic_gw_book/blob/main/erratum/erratum_bakker_post.ipynb).
